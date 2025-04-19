@@ -1,0 +1,570 @@
+[
+  {
+    "name": "Bulbasaur",
+    "clues": [
+      "This Pokémon has a plant bulb on its back that grows with it.",
+      "It is known to be both Grass and Poison type.",
+      "The first Pokémon listed in the National Pokédex."
+    ]
+  },
+  {
+    "name": "Ivysaur",
+    "clues": [
+      "The bulb on its back blooms into a large flower as it evolves.",
+      "It evolves from Bulbasaur.",
+      "A Grass/Poison-type Pokémon that is the second stage in its evolutionary line."
+    ]
+  },
+  {
+    "name": "Venusaur",
+    "clues": [
+      "This Pokémon has a large flower on its back that absorbs sunlight.",
+      "It is the final evolution of Bulbasaur.",
+      "A dual-type Grass/Poison Pokémon known for its powerful SolarBeam attack."
+    ]
+  },
+  {
+    "name": "Charmander",
+    "clues": [
+      "This Pokémon has a flame at the tip of its tail that indicates its health.",
+      "It is a Fire-type starter Pokémon from the Kanto region.",
+      "Ash Ketchum's first Fire-type Pokémon companion."
+    ]
+  },
+  {
+    "name": "Charmeleon",
+    "clues": [
+      "This Pokémon has a more aggressive nature than its pre-evolution.",
+      "It evolves from Charmander.",
+      "A Fire-type Pokémon known for its fiery tail and sharp claws."
+    ]
+  },
+  {
+    "name": "Charizard",
+    "clues": [
+      "This Pokémon has wings and can fly, despite its pre-evolutions being unable to.",
+      "It evolves from Charmeleon.",
+      "A Fire/Flying-type Pokémon resembling a dragon, evolved from Charmander."
+    ]
+  },
+  {
+    "name": "Squirtle",
+    "clues": [
+      "This Pokémon withdraws into its shell to protect itself.",
+      "It is a Water-type starter Pokémon from the Kanto region.",
+      "A small turtle-like Pokémon known for its Water Gun attack."
+    ]
+  },
+  {
+    "name": "Wartortle",
+    "clues": [
+      "This Pokémon has furry ears and a fluffy tail.",
+      "It evolves from Squirtle.",
+      "A Water-type Pokémon that is the second stage in its evolutionary line."
+    ]
+  },
+  {
+    "name": "Blastoise",
+    "clues": [
+      "This Pokémon has water cannons on its shell.",
+      "It is the final evolution of Squirtle.",
+      "A Water-type Pokémon known for its powerful Hydro Pump attack."
+    ]
+  },
+  {
+    "name": "Caterpie",
+    "clues": [
+      "This Pokémon releases a stench from its antenna to repel enemies.",
+      "It is a Bug-type Pokémon that evolves quickly.",
+      "A small green caterpillar Pokémon known for its quick evolution into Metapod."
+    ]
+  },
+  {
+    "name": "Metapod",
+    "clues": [
+      "This Pokémon stays motionless most of the time to conserve energy for evolution.",
+      "It evolves from Caterpie.",
+      "A cocoon-like Bug-type Pokémon known for using Harden."
+    ]
+  },
+  {
+    "name": "Butterfree",
+    "clues": [
+      "Its wings are covered in toxic dust.",
+      "It is the final evolution of Caterpie.",
+      "A butterfly-like Bug/Flying-type Pokémon known for Sleep Powder and Gust."
+    ]
+  },
+  {
+    "name": "Weedle",
+    "clues": [
+      "This Pokémon has a poisonous stinger on its head.",
+      "It is often found in forests and grassy areas.",
+      "A Bug/Poison-type Pokémon resembling a worm or larva."
+    ]
+  },
+  {
+    "name": "Kakuna",
+    "clues": [
+      "It remains motionless as it prepares to evolve.",
+      "It evolves from Weedle.",
+      "A cocoon-like Bug/Poison-type Pokémon that mainly uses Harden."
+    ]
+  },
+  {
+    "name": "Beedrill",
+    "clues": [
+      "This Pokémon attacks in swarms using its twin needle arms.",
+      "It is the final evolution of Weedle.",
+      "A wasp-like Bug/Poison-type Pokémon with powerful Fury Attack."
+    ]
+  },
+  {
+    "name": "Pidgey",
+    "clues": [
+      "This Pokémon uses its wings to kick up dust and escape enemies.",
+      "It is a common sight in the early stages of many games.",
+      "A small Normal/Flying-type bird Pokémon."
+    ]
+  },
+  {
+    "name": "Pidgeotto",
+    "clues": [
+      "It claims a large territory for itself.",
+      "It evolves from Pidgey.",
+      "A Normal/Flying-type Pokémon known for Gust and Quick Attack."
+    ]
+  },
+  {
+    "name": "Pidgeot",
+    "clues": [
+      "This Pokémon can fly at Mach 2 speed.",
+      "It is the final evolution of Pidgey.",
+      "A majestic bird-like Normal/Flying-type Pokémon with large wings."
+    ]
+  },
+  {
+    "name": "Rattata",
+    "clues": [
+      "It constantly gnaws on things to keep its teeth sharp.",
+      "It is often found early in the game and is quite fast.",
+      "A small purple Normal-type rodent Pokémon."
+    ]
+  },
+  {
+    "name": "Raticate",
+    "clues": [
+      "It has extremely sharp fangs that can chew through concrete.",
+      "It evolves from Rattata.",
+      "A large rat-like Normal-type Pokémon with aggressive nature."
+    ]
+  },
+  {
+    "name": "Spearow",
+    "clues": [
+      "It has a loud cry that can be heard over long distances.",
+      "A Normal/Flying-type bird Pokémon with a fierce personality.",
+      "A small bird Pokémon known for its aggressive pecking."
+    ]
+  },
+  {
+    "name": "Fearow",
+    "clues": [
+      "This Pokémon has a long neck and beak, ideal for catching prey.",
+      "It is the evolved form of Spearow.",
+      "A large avian Pokémon that flies swiftly and strikes with its sharp beak."
+    ]
+  },
+  {
+    "name": "Ekans",
+    "clues": [
+      "This snake-like Pokémon can unhinge its jaw to swallow large prey.",
+      "It is a Poison-type Pokémon that slithers silently.",
+      "Its name is 'snake' spelled backwards."
+    ]
+  },
+  {
+    "name": "Arbok",
+    "clues": [
+      "Its hood has intimidating patterns to scare opponents.",
+      "It evolves from Ekans.",
+      "A cobra-like Poison-type Pokémon known for its fierce gaze and constriction."
+    ]
+  },
+  {
+    "name": "Pikachu",
+    "clues": [
+      "It releases electric discharges when threatened or excited.",
+      "Ash Ketchum's first and most iconic Pokémon partner.",
+      "A small yellow Electric-type Pokémon known for its red cheeks and lightning bolt-shaped tail."
+    ]
+  },
+  {
+    "name": "Nidoran♀",
+    "clues": [
+      "This small Pokémon has toxic barbs used in self-defense.",
+      "It is exclusively female and known for its gentle temperament.",
+      "A Poison-type Pokémon that evolves into Nidorina."
+    ]
+  },
+  {
+    "name": "Nidorina",
+    "clues": [
+      "It is more cautious than its pre-evolution and avoids battle.",
+      "It evolves from Nidoran♀.",
+      "A Poison-type Pokémon that doesn’t develop horns like its male counterpart."
+    ]
+  },
+  {
+    "name": "Nidoqueen",
+    "clues": [
+      "Its tough scales cover its body like armor.",
+      "It evolves from Nidorina when exposed to a Moon Stone.",
+      "A Ground/Poison-type known for being a defensive powerhouse."
+    ]
+  },
+  {
+    "name": "Nidoran♂",
+    "clues": [
+      "It has larger ears and more developed horns than its female counterpart.",
+      "It is exclusively male and releases poison from its horn.",
+      "A Poison-type Pokémon that evolves into Nidorino."
+    ]
+  },
+  {
+    "name": "Nidorino",
+    "clues": [
+      "This Pokémon is more aggressive than Nidoran♂.",
+      "It evolves from Nidoran♂.",
+      "A Poison-type known for using Horn Attack and Poison Sting."
+    ]
+  },
+  {
+    "name": "Nidoking",
+    "clues": [
+      "Its tail is so strong it can smash buildings.",
+      "It evolves from Nidorino using a Moon Stone.",
+      "A Ground/Poison-type with immense attack power and a fierce horn."
+    ]
+  },
+  {
+    "name": "Clefairy",
+    "clues": [
+      "This Pokémon is said to dance under the full moon.",
+      "It is known for its cute appearance and healing moves.",
+      "A Fairy-type Pokémon often seen with the Moon Stone."
+    ]
+  },
+  {
+    "name": "Clefable",
+    "clues": [
+      "It is very shy and rarely seen by humans.",
+      "It evolves from Clefairy using a Moon Stone.",
+      "A Fairy-type Pokémon with wings and a peaceful nature."
+    ]
+  },
+  {
+    "name": "Vulpix",
+    "clues": [
+      "This Pokémon is born with a single white tail that splits as it grows.",
+      "It is a Fire-type Pokémon often seen with elegant curls.",
+      "A fox-like Pokémon known for its six warm tails."
+    ]
+  },
+  {
+    "name": "Ninetales",
+    "clues": [
+      "It is said to live for 1,000 years.",
+      "It evolves from Vulpix using a Fire Stone.",
+      "A majestic Fire-type Pokémon with nine flowing tails."
+    ]
+  },
+  {
+    "name": "Jigglypuff",
+    "clues": [
+      "This Pokémon uses its song to put others to sleep.",
+      "Its round body is filled with air like a balloon.",
+      "A Fairy-type Pokémon with a famous singing ability."
+    ]
+  },
+  {
+    "name": "Wigglytuff",
+    "clues": [
+      "Its body is so soft, people can’t stop hugging it.",
+      "It evolves from Jigglypuff using a Moon Stone.",
+      "A Fairy-type Pokémon that resembles an inflated balloon."
+    ]
+  },
+  {
+    "name": "Zubat",
+    "clues": [
+      "This Pokémon has no eyes and relies on echolocation.",
+      "It is commonly found in caves.",
+      "A Poison/Flying-type bat Pokémon with high speed."
+    ]
+  },
+  {
+    "name": "Golbat",
+    "clues": [
+      "This Pokémon drains the blood of its prey.",
+      "It evolves from Zubat at level 22.",
+      "A large bat-like Poison/Flying-type Pokémon."
+    ]
+  },
+  {
+    "name": "Oddish",
+    "clues": [
+      "It buries itself during the day to avoid sunlight.",
+      "It is both Grass and Poison type.",
+      "A small blue root Pokémon with leaves on its head."
+    ]
+  },
+  {
+    "name": "Gloom",
+    "clues": [
+      "It emits a foul odor from the flower on its head.",
+      "It evolves from Oddish at level 21.",
+      "A drooling Grass/Poison-type Pokémon."
+    ]
+  },
+  {
+    "name": "Vileplume",
+    "clues": [
+      "Its petals are the largest in the Pokémon world.",
+      "It evolves from Gloom using a Leaf Stone.",
+      "A Grass/Poison-type Pokémon with a giant red flower."
+    ]
+  },
+  {
+    "name": "Paras",
+    "clues": [
+      "It has mushrooms growing on its back.",
+      "It’s a Bug/Grass-type Pokémon that lives in forests.",
+      "A crab-like Pokémon often associated with spores."
+    ]
+  },
+  {
+    "name": "Parasect",
+    "clues": [
+      "The mushroom has taken full control of its host.",
+      "It evolves from Paras at level 24.",
+      "A Bug/Grass-type Pokémon with a zombified appearance."
+    ]
+  },
+  {
+    "name": "Venonat",
+    "clues": [
+      "Its eyes act as radar to detect its surroundings.",
+      "It’s a Bug/Poison-type Pokémon covered in fur.",
+      "A purple fuzzy Pokémon that evolves into Venomoth."
+    ]
+  },
+  {
+    "name": "Venomoth",
+    "clues": [
+      "It scatters powdery scales that can cause paralysis.",
+      "It evolves from Venonat at level 31.",
+      "A moth-like Bug/Poison-type Pokémon with fluttering wings."
+    ]
+  },
+  {
+    "name": "Pinsir",
+    "clues": [
+      "This Pokémon uses its massive horns to grip and squeeze foes.",
+      "It is a pure Bug-type Pokémon without any evolutions in Generation I.",
+      "It resembles a large brown stag beetle."
+    ]
+  },
+  {
+    "name": "Tauros",
+    "clues": [
+      "It whips itself into a frenzy using its three tails.",
+      "This Pokémon is exclusive to the Safari Zone in Generation I.",
+      "A bull-like Normal-type Pokémon known for its aggressive nature."
+    ]
+  },
+  {
+    "name": "Magikarp",
+    "clues": [
+      "This Pokémon is known for being very weak and only knowing Splash.",
+      "It is commonly seen as useless until it evolves.",
+      "A floppy orange fish Pokémon that becomes the mighty Gyarados."
+    ]
+  },
+  {
+    "name": "Gyarados",
+    "clues": [
+      "This Pokémon evolves from one of the weakest Pokémon.",
+      "Its fierce temper and destructive power are legendary.",
+      "A large serpentine Water/Flying-type Pokémon known for Hyper Beam."
+    ]
+  },
+  {
+    "name": "Lapras",
+    "clues": [
+      "This Pokémon is often used to ferry people across water.",
+      "It is an Ice/Water-type Pokémon with a gentle nature.",
+      "A plesiosaur-like Pokémon known for its intelligence and rarity."
+    ]
+  },
+  {
+    "name": "Ditto",
+    "clues": [
+      "This Pokémon can transform into any other Pokémon it sees.",
+      "It is a single-stage Normal-type Pokémon.",
+      "A purple blob-like Pokémon known for its Transform ability."
+    ]
+  },
+  {
+    "name": "Eevee",
+    "clues": [
+      "This Pokémon has unstable genetic makeup, allowing for multiple evolutions.",
+      "It can evolve into one of several different types.",
+      "A cute Normal-type Pokémon with many evolutionary possibilities."
+    ]
+  },
+  {
+    "name": "Vaporeon",
+    "clues": [
+      "It has fins and can melt into water to become invisible.",
+      "One of Eevee's Water-type evolutions.",
+      "A mermaid-like Pokémon with a finned tail and aquatic features."
+    ]
+  },
+  {
+    "name": "Jolteon",
+    "clues": [
+      "This Pokémon stores electricity in its body hairs.",
+      "It evolves from Eevee using a Thunder Stone.",
+      "A spiky yellow Electric-type Pokémon known for its speed."
+    ]
+  },
+  {
+    "name": "Flareon",
+    "clues": [
+      "This Pokémon stores thermal energy in its body.",
+      "It evolves from Eevee using a Fire Stone.",
+      "A fluffy red-orange Fire-type Pokémon with a high Attack stat."
+    ]
+  },
+  {
+    "name": "Porygon",
+    "clues": [
+      "This Pokémon was created entirely out of programming code.",
+      "It is a digital Pokémon that can convert itself into data.",
+      "A virtual polygonal Normal-type Pokémon resembling 3D shapes."
+    ]
+  },
+  {
+    "name": "Omanyte",
+    "clues": [
+      "This extinct Pokémon was resurrected from a Helix Fossil.",
+      "It is a Rock/Water-type resembling a shelled ammonite.",
+      "A spiral-shelled ancient Pokémon with tentacles."
+    ]
+  },
+  {
+    "name": "Omastar",
+    "clues": [
+      "It uses its tentacles to ensnare prey.",
+      "Evolves from Omanyte.",
+      "A spiny-shelled Rock/Water-type Pokémon with a fierce bite."
+    ]
+  },
+  {
+    "name": "Kabuto",
+    "clues": [
+      "It is a fossil Pokémon restored from the Dome Fossil.",
+      "It has a hard shell and scuttles along the seafloor.",
+      "A small, ancient Rock/Water-type Pokémon resembling a trilobite."
+    ]
+  },
+  {
+    "name": "Kabutops",
+    "clues": [
+      "Its sharp scythes are used to cut down prey.",
+      "It evolves from Kabuto.",
+      "A sleek, bipedal Rock/Water-type Pokémon with blade-like arms."
+    ]
+  },
+  {
+    "name": "Aerodactyl",
+    "clues": [
+      "This prehistoric Pokémon was restored from Old Amber.",
+      "It flies at high speed and has a fearsome screech.",
+      "A Rock/Flying-type Pokémon resembling a pterosaur."
+    ]
+  },
+  {
+    "name": "Snorlax",
+    "clues": [
+      "This Pokémon only wakes up to eat over 800 pounds of food.",
+      "It blocks paths by sleeping in inconvenient locations.",
+      "A large, sleepy Normal-type Pokémon known for Rest and Body Slam."
+    ]
+  },
+  {
+    "name": "Articuno",
+    "clues": [
+      "This Legendary Bird Pokémon appears with snowstorms.",
+      "It is the embodiment of ice and cold winds.",
+      "An Ice/Flying-type Legendary Pokémon with majestic blue wings."
+    ]
+  },
+  {
+    "name": "Zapdos",
+    "clues": [
+      "This Legendary Pokémon controls thunder and lightning.",
+      "It lives in storm clouds and crackles with electricity.",
+      "An Electric/Flying-type Legendary Bird Pokémon with spiky feathers."
+    ]
+  },
+  {
+    "name": "Moltres",
+    "clues": [
+      "This Legendary Bird brings spring with its fiery presence.",
+      "Its body is cloaked in flames.",
+      "A Fire/Flying-type Legendary Pokémon with blazing wings."
+    ]
+  },
+  {
+    "name": "Dratini",
+    "clues": [
+      "This elusive Pokémon lives in deep oceans and rivers.",
+      "It constantly sheds its skin as it grows.",
+      "A serpentine Dragon-type Pokémon that evolves into Dragonair."
+    ]
+  },
+  {
+    "name": "Dragonair",
+    "clues": [
+      "This elegant Pokémon emits a mystical aura.",
+      "It evolves from Dratini.",
+      "A long, blue Dragon-type Pokémon with orbs on its tail and neck."
+    ]
+  },
+  {
+    "name": "Dragonite",
+    "clues": [
+      "Despite its bulky frame, it can fly at the speed of sound.",
+      "It evolves from Dragonair.",
+      "A friendly Dragon/Flying-type Pokémon that resembles a chubby dragon."
+    ]
+  },
+  {
+    "name": "Mewtwo",
+    "clues": [
+      "It was created through genetic manipulation from a mythical Pokémon.",
+      "One of the most powerful Psychic-type Pokémon.",
+      "A Legendary Pokémon with telekinetic powers, cloned from Mew."
+    ]
+  },
+  {
+    "name": "Mew",
+    "clues": [
+      "It contains the DNA of all Pokémon.",
+      "It is extremely rare and was once thought to be extinct.",
+      "A small pink Psychic-type Mythical Pokémon known for its versatility."
+    ]
+  }
+]

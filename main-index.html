@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Who's That Pokémon?</title>
+  <style>
+    body {
+      font-family: 'Comic Sans MS', cursive, sans-serif;
+      background: linear-gradient(to right, #fceabb, #f8b500);
+      color: #333;
+      text-align: center;
+      padding: 2rem;
+    }
+
+    .game-box {
+      max-width: 600px;
+      margin: auto;
+      background: #fff;
+      border: 5px solid #f44336;
+      border-radius: 20px;
+      padding: 2rem;
+      box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+    }
+
+    h1 {
+      color: #ff0000;
+      text-shadow: 2px 2px #000;
+    }
+
+    button {
+      background-color: #4caf50;
+      color: white;
+      padding: 0.7rem 1.5rem;
+      margin: 1rem;
+      border: none;
+      border-radius: 8px;
+      font-size: 1rem;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #388e3c;
+    }
+
+    .toggle-btn {
+      background-color: #2196f3;
+    }
+
+    .toggle-btn.active {
+      background-color: #e65100;
+    }
+
+    #game-screen {
+      display: block;
+    }
+  </style>
+</head>
+<body>
+
+  <div id="game-screen" class="game-box">
+    <h1>Who's That Pokémon?</h1>
+    <br>
+    <button onclick="startGame()">START</button>
+    <button id="sound-toggle" class="toggle-btn" onclick="toggleSound()">SOUND: ON</button>
+    <button onclick="quitGame()">QUIT</button>
+  </div>
+
+  <script>
+
+    let isSoundOn = true;
+
+    function toggleSound() {
+      isSoundOn = !isSoundOn;
+      const soundButton = document.getElementById('sound-toggle');
+      soundButton.textContent = isSoundOn ? "SOUND: ON" : "SOUND: OFF";
+    }
+
+    function quitGame() {
+      window.close();
+    }
+
+    function startGame() {
+      window.location.href = "POKE_TRIVIA.html";
+    }
+
+  </script>
+
+</body>
+</html>
