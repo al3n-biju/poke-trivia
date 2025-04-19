@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Credits | Who's That Pokémon?</title>
+  <style>
+    body {
+      font-family: 'Comic Sans MS', cursive, sans-serif;
+      background: url('images/bg.png');
+      background-size: cover;
+      color: #222;
+      text-align: center;
+      padding: 2rem;
+      position: relative;
+    }
+
+    .credits-box {
+      max-width: 700px;
+      margin: auto;
+      background: #ffffff;
+      border: 5px dashed #ff4081;
+      border-radius: 20px;
+      padding: 2rem;
+      box-shadow: 0 0 25px rgba(0, 0, 0, 0.3);
+      position: relative;
+    }
+
+    h1 {
+      color: #d50000;
+      font-size: 2.5rem;
+      text-shadow: 1px 1px #000;
+    }
+
+    p {
+      font-size: 1.1rem;
+      line-height: 1.7;
+    }
+
+    .hidden-msg {
+      display: none;
+      margin-top: 1rem;
+      color: #0d47a1;
+      font-weight: bold;
+    }
+
+    .home-btn {
+      margin-top: 2rem;
+      display: inline-block;
+      padding: 0.8rem 1.5rem;
+      background-color: #00796b;
+      color: white;
+      font-size: 1rem;
+      border: none;
+      border-radius: 10px;
+      text-decoration: none;
+      transition: background-color 0.3s ease;
+    }
+
+    .home-btn:hover {
+      background-color: #004d40;
+    }
+
+    .easter-egg {
+      margin-top: 2rem;
+      font-size: 0.9rem;
+      color: #999;
+      cursor: pointer;
+      user-select: none;
+    }
+
+    .poke-ball {
+      position: absolute;
+      top: -30px;
+      right: -30px;
+      width: 80px;
+      opacity: 0.8;
+      transition: transform 0.3s ease;
+    }
+
+    .poke-ball:hover {
+      transform: rotate(360deg) scale(1.2);
+    }
+  </style>
+</head>
+<body>
+
+  <div class="credits-box">
+    <img src="images/logo.gif" alt="Pokéball" class="poke-ball">
+    <h1>Developer Credits</h1>
+    <p><strong>Alen Biju</strong><br>
+      Pokémon Lover 💛<br>
+      <em>This game is the result of late-night boredom (and maybe a few too many Pokébeans).</em>
+    </p>
+    <p>
+      Want to catch more cool projects? Reach out here:<br>
+      <a href="https://linktr.ee/alen_biju" target="_blank">linktr.ee/alen_biju</a>
+    </p>
+
+    <div class="easter-egg" onclick="revealHiddenMessage()">
+      (Pssst... click here!)
+    </div>
+
+    <div class="hidden-msg" id="hiddenMsg">
+      Congrats! You’ve unlocked a secret puzzle: <a href="i3p/hush.pdf" target="_blank">Click Me</a>.<br>
+    </div>
+
+    <a href="index.html" class="home-btn">Back to Game</a>
+  </div>
+
+  <script>
+    function revealHiddenMessage() {
+      document.getElementById("hiddenMsg").style.display = "block";
+    }
+  </script>
+
+</body>
+</html>
