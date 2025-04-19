@@ -55,6 +55,13 @@
       background-color: #e65100;
     }
 
+    #about {
+      position: absolute;
+      top: 95%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+
     #game-screen {
       display: block;
     }
@@ -68,6 +75,12 @@
     <button onclick="startGame()">START</button>
     <button id="sound-toggle" class="toggle-btn" onclick="toggleSound()">SOUND: ON</button>
     <button onclick="quitGame()">QUIT</button>
+  </div>
+
+  <div id="about">
+    <button onclick="aboutpage()">About</button>
+    <button onclick="creditpage()">Credits</button>
+    <button onclick="">Feedback</button>
   </div>
 
   <script>
@@ -86,6 +99,14 @@
 
     function startGame() {
       window.location.href = "POKE_TRIVIA.html";
+    }
+
+    function aboutpage() {
+      window.location.href = "about.html";
+    }
+
+    function creditpage() {
+      window.location.href = "credits.html";
     }
 
   </script>
